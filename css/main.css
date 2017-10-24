@@ -1146,7 +1146,7 @@ pre .keyword, pre .javascript .function {
 }
 
 .header {
-  background: url("https://i.imgur.com/88pXz7J.jpg")
+  background: url("https://i.imgur.com/88pXz7J.jpg") top left/cover
 }
 
 .header-inner {
@@ -1962,7 +1962,7 @@ pre .keyword, pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a3ff67
+  background: #ff04e9
 }
 
 .links-of-blogroll {
